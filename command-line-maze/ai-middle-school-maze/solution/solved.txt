@@ -1,0 +1,8 @@
+Congratulations — you solved the maze.
+
+Theme: Navigating AI in the Middle School Classroom
+
+This maze explored a possible path for thinking about AI in education:
+digital literacy -> classroom tools -> student engagement -> ethics
+
+You found the solution.
